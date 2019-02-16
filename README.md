@@ -1,7 +1,7 @@
 # pis
 Ping Image Servlet
 
-# <a href="https://github.com/pla1/pis/blob/master/src/com/pla/misc/PingImageServlet.java">PingImageServlet</a>
+# <a href="https://github.com/pla1/pis/blob/master/src/net/pla1/pis/PingImageServlet.java">PingImageServlet</a>
 Returns a green image if IP address is PING'able and returns a red image when it is not PING'able. Use it to add visual indications of device status on web pages. HTML example: <code>&lt;img src=&quot;https://pingimage.net?ip=8.8.8.8&quot;&gt; 8.8.8.8&lt;br&gt;</code>
 
 <img src="https://pingimage.net?ip=8.8.8.8"> 8.8.8.8<br>
