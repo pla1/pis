@@ -10,3 +10,8 @@ Returns a green image if IP address is PING'able and returns a red image when it
 <img src="https://pingimage.net?ip=208.67.220.220"> 208.67.220.220<br>
 
 Alternate format using request path: https://pingimage.net/cnn.com
+
+If running on your local machine:
+
+http://localhost:8080/pis/1.1.1.1
+http://localhost:8080/pis/?ip=1.1.1.1
